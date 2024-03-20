@@ -18,7 +18,7 @@ Card project by bob-ziroll](https://youtu.be/bMknfKXIFA8)
 
 ## Live Preview
 
-Visit the live preview [here](#) to explore the digital business card.
+Visit the live preview [here](https://digital-business-card-ruby.vercel.app/) to explore the digital business card.
 
 ## Contact
 
