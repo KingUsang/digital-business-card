@@ -5,7 +5,7 @@ import Footer from './components/Footer.jsx'
 
 export default function App() {
   return (
-    <div className="w-4/5 max-w-7xl mx-auto bg-[#1a1b21] my-8 rounded-2xl
+    <div className="w-4/5 max-w-xl mx-auto bg-[#1a1b21] my-8 rounded-2xl
     text-white">
       <main className="">
         <Info />
